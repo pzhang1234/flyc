@@ -4,14 +4,13 @@ version: "1.0"
 permalink: /:year/:month/:day/:title/
 
 # 站点设置
-title: "Guovz"
-email: pzhuwjl@qq.com
+title: "pzhang"
 description: "个人博客"
-keywords: "Guovz"
+keywords: "java"
 
 # 用户信息设置
-weibo_username: Guovz
-github_username: guovz
+weibo_username: pzhang
+github_username: pzhang1234
 
 # Markdown设置
 kramdown:
