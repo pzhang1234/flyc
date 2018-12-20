@@ -22,7 +22,7 @@ kramdown:
 
 
 # 地址设置
-baseurl: "https://github.com/pzhang1234/flyc"
+baseurl: "/pzhang1234"
 url: "https://github.com/pzhang1234/flyc"
 
 
